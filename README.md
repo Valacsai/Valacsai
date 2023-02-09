@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Valacsai
 - 👀 I’m interested in web development, webapps, coding.
-- 🌱 I’m currently learning React, NodeJs, JQuary.
+- 🌱 I’m working with React, C#, NodeJS.
 - 📫 How to reach me viktor.valacsai@gmail.com
 
 <!---
